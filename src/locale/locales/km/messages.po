@@ -20,11 +20,11 @@ msgstr ""
 
 #: src/components/ProgressGuide/FollowDialog.tsx:567
 msgid "(active)"
-msgstr ""
+msgstr "(សកម្ម)"
 
 #: src/screens/Messages/components/ChatListItem.tsx:145
 msgid "(contains embedded content)"
-msgstr ""
+msgstr "(contains embedded content)"
 
 #: src/screens/Settings/AccountSettings.tsx:65
 #: src/view/com/modals/VerifyEmail.tsx:150
@@ -121,7 +121,7 @@ msgstr "{0} បានចូលរួមសប្តាហ៍នេះ"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/web-controls/Scrubber.tsx:201
 msgid "{0} of {1}"
-msgstr ""
+msgstr "{0} នៃ {1}"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:480
 msgid "{0} people have used this starter pack!"
@@ -133,7 +133,7 @@ msgstr "ធាតុ​មិន​ទាន់​អាន {0}"
 
 #: src/view/com/util/UserAvatar.tsx:436
 msgid "{0}'s avatar"
-msgstr ""
+msgstr "រូបគណនីរបស់ {0}"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:67
 msgid "{0}'s favorite feeds and people - join me!"
@@ -146,17 +146,17 @@ msgstr ""
 #. How many days have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:158
 msgid "{0}d"
-msgstr ""
+msgstr "{0}ថ"
 
 #. How many hours have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:148
 msgid "{0}h"
-msgstr ""
+msgstr "{0}ម"
 
 #. How many minutes have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:138
 msgid "{0}m"
-msgstr ""
+msgstr "{0}ន"
 
 #. How many months have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:169
@@ -166,7 +166,7 @@ msgstr ""
 #. How many seconds have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:128
 msgid "{0}s"
-msgstr ""
+msgstr "{0}វ"
 
 #: src/view/shell/desktop/LeftNav.tsx:387
 msgid "{count} unread items"
@@ -284,7 +284,7 @@ msgstr "{handle} មិនអាចផ្ញើសារបានទេ"
 
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:262
 msgid "{notificationCount} unread items"
-msgstr ""
+msgstr "មាន {notificationCount} ធាតុមិនទាន់បានអាន"
 
 #: src/view/shell/Drawer.tsx:453
 msgid "{numUnreadNotifications} unread"
@@ -581,7 +581,7 @@ msgstr "កម្រិតខ្ពស់"
 
 #: src/view/screens/Notifications.tsx:86
 msgid "All"
-msgstr ""
+msgstr "ទាំងអស់"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:381
 msgid "All accounts have been followed!"
@@ -591,7 +591,7 @@ msgstr "គណនីទាំងអស់ត្រូវបានតាមដា
 #: src/view/screens/Search/Search.tsx:399
 #: src/view/screens/Search/Search.tsx:401
 msgid "All languages"
-msgstr ""
+msgstr "ភាសាទាំងអស់"
 
 #: src/view/screens/Feeds.tsx:702
 msgid "All the feeds you've saved, right in one place."
@@ -756,7 +756,7 @@ msgstr "GIF ដែលមានចលនា"
 
 #: src/lib/moderation/useReportOptions.ts:33
 msgid "Anti-Social Behavior"
-msgstr ""
+msgstr "អាកប្បករិយាប្រឆាំងសង្គម"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:48
 msgid "Anybody can interact"
@@ -810,7 +810,7 @@ msgstr "បណ្តឹងឧទ្ធរណ៍"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:243
 msgid "Appeal \"{0}\" label"
-msgstr ""
+msgstr "បណ្តឹងឧទ្ធរណ៍"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:233
 #: src/screens/Messages/components/ChatDisabled.tsx:91
@@ -896,7 +896,7 @@ msgstr "តើអ្នកប្រាកដទេ?"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:69
 msgid "Are you writing in <0>{suggestedLanguageName}</0>?"
-msgstr ""
+msgstr "តើអ្នកកំពុងសរសេរនៅក្នុងភាសា <0>{suggestedLanguageName}</0> មែនទេ?"
 
 #: src/screens/Onboarding/index.tsx:23
 #: src/screens/Onboarding/state.ts:95
@@ -961,7 +961,7 @@ msgstr "មុនពេលអ្នកអាចផ្ញើសារទៅកា
 #: src/screens/Search/components/ExploreTrendingTopics.tsx:74
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:111
 msgid "BETA"
-msgstr ""
+msgstr "សាកល្បង"
 
 #: src/components/dialogs/BirthDateSettings.tsx:102
 #: src/screens/Settings/AccountSettings.tsx:109
@@ -997,11 +997,11 @@ msgstr "បិទគណនី"
 
 #: src/components/dms/ReportDialog.tsx:325
 msgid "Block and Delete"
-msgstr ""
+msgstr "ឃាំង និងលុប"
 
 #: src/components/dms/ReportDialog.tsx:343
 msgid "Block and/or delete this conversation"
-msgstr ""
+msgstr "ឃាំង និង/ឬ លុបនូវការសន្ទនាមួយនេះ"
 
 #: src/view/screens/ProfileList.tsx:760
 msgid "Block list"
@@ -1014,11 +1014,11 @@ msgstr "ទប់ស្កាត់គណនីទាំងនេះ?"
 #: src/components/dms/ReportDialog.tsx:347
 #: src/components/dms/ReportDialog.tsx:350
 msgid "Block user"
-msgstr ""
+msgstr "រារាំងអ្នកប្រើប្រាស់"
 
 #: src/components/dms/ReportDialog.tsx:329
 msgid "Block User"
-msgstr ""
+msgstr "រារាំងអ្នកប្រើប្រាស់"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:83
 msgid "Blocked"
@@ -1065,7 +1065,7 @@ msgstr "ប្លុក"
 #: src/view/com/auth/server-input/index.tsx:136
 #: src/view/com/auth/server-input/index.tsx:137
 msgid "Bluesky"
-msgstr ""
+msgstr "Bluesky"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:864
 msgid "Bluesky cannot confirm the authenticity of the claimed date."
@@ -1077,7 +1077,7 @@ msgstr "Bluesky គឺជាបណ្តាញបើកចំហដែលអ្�
 
 #: src/view/com/auth/server-input/index.tsx:149
 msgid "Bluesky is an open network where you can choose your own provider. If you're new here, we recommend sticking with the default Bluesky Social option."
-msgstr ""
+msgstr "Bluesky គឺជាប្រព័ន្ធបើកចំហ ដែលអ្នកអាចជ្រើសរើសមជ្ឈមណ្ឌលផ្ទុកទិន្នន័យរបស់អ្នកផ្ទាល់។ ប្រសិនបើអ្នកជាអ្នកទើបចូលប្រើថ្មី យើងណែនាំឱ្យអ្នករក្សាទុកជាលក្ខណៈបច្ចេកទេសរបស់ Bluesky ឲ្យនៅដូចដើម។"
 
 #: src/components/ProgressGuide/List.tsx:53
 #: src/components/ProgressGuide/List.tsx:70
@@ -1086,7 +1086,7 @@ msgstr "Bluesky គឺល្អជាមួយមិត្តភក្តិ!"
 
 #: src/screens/Takendown.tsx:217
 msgid "Bluesky Social Terms of Service"
-msgstr ""
+msgstr "គោលការណ៍នៃសេវាកម្មរបស់បណ្តាញសង្គម Bluesky"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:299
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
@@ -1098,11 +1098,11 @@ msgstr "Bluesky នឹងមិនបង្ហាញប្រវត្តិរ�
 
 #: src/screens/Settings/AppIconSettings/index.tsx:99
 msgid "Bluesky+"
-msgstr ""
+msgstr "Bluesky+"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:102
 msgid "Bluesky+ icons"
-msgstr ""
+msgstr "អាយខុន Bluesky+"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:53
 msgid "Blur images"
@@ -1278,7 +1278,7 @@ msgstr "ផ្លាស់ប្តូរ"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:39
 msgid "Change app icon"
-msgstr ""
+msgstr "ប្តូររូបអាយខុនកម្មវិធី"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:38
 #: src/screens/Settings/AppIconSettings/index.tsx:221
@@ -1310,7 +1310,7 @@ msgstr "ផ្លាស់ប្តូរពាក្យសម្ងាត់"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:82
 msgid "Change post language to {suggestedLanguageName}"
-msgstr ""
+msgstr "ប្តូរភាសានៃការបង្ហោះទៅជាភាសា"
 
 #: src/view/com/modals/ChangeEmail.tsx:104
 msgid "Change Your Email"
@@ -1322,12 +1322,12 @@ msgstr "ផ្លាស់ប្តូរអាសយដ្ឋានអ៊ីម
 
 #: src/screens/Settings/AppIconSettings/index.tsx:216
 msgid "Changes app icon"
-msgstr ""
+msgstr "ប្តូររូបអាយខុនកម្មវធី"
 
 #: src/components/forms/HostingProvider.tsx:50
 #: src/components/forms/HostingProvider.tsx:66
 msgid "Changes hosting provider"
-msgstr ""
+msgstr "ផ្លាស់ប្តូរអ្នកផ្តល់សេវាកម្ម hosting"
 
 #: src/Navigation.tsx:406
 #: src/view/shell/bottom-bar/BottomBar.tsx:204
@@ -1362,7 +1362,7 @@ msgstr "ពិនិត្យស្ថានភាពរបស់ខ្ញុំ
 
 #: src/screens/Login/LoginForm.tsx:301
 msgid "Check your email for a sign in code and enter it here."
-msgstr ""
+msgstr "សូមឆែកមើលអ៊ីមែលរបស់អ្នកដើម្បីយកកូដសម្រាប់ចូលគណនីមកបំពេញនៅទីនេះ។"
 
 #: src/view/com/modals/DeleteAccount.tsx:213
 msgid "Check your inbox for an email with the confirmation code to enter below:"
@@ -1398,7 +1398,7 @@ msgstr "ជ្រើសរើសពណ៌នេះជារូបតំណាង
 
 #: src/view/com/auth/server-input/index.tsx:130
 msgid "Choose your account provider"
-msgstr ""
+msgstr "សូមជ្រើសរើសអ្នកផ្តល់កម្មវិធី"
 
 #: src/view/screens/Feeds.tsx:728
 #: src/view/screens/Search/Explore.tsx:427
@@ -1411,7 +1411,7 @@ msgstr "ជ្រើសរើសពាក្យសម្ងាត់របស់
 
 #: src/screens/Signup/index.tsx:142
 msgid "Choose your username"
-msgstr ""
+msgstr "ជ្រើសរើសឈ្មោះ username"
 
 #: src/screens/Settings/Settings.tsx:351
 msgid "Clear all storage data"
@@ -1518,7 +1518,7 @@ msgstr "បិទការជូនដំណឹងអំពីការអាប
 #: src/view/com/composer/text-input/web/EmojiPicker.web.tsx:138
 #: src/view/com/composer/text-input/web/EmojiPicker.web.tsx:174
 msgid "Closes the emoji picker"
-msgstr ""
+msgstr "បិទផ្ទាំងរើសរូបអ៊ីម៉ូជី"
 
 #: src/view/com/lightbox/ImageViewing/components/ImageDefaultHeader.tsx:32
 msgid "Closes viewer for header image"
